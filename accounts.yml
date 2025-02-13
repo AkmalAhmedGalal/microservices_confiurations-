@@ -1,8 +1,8 @@
 build:
-  version: "1.225"
+  version: "1.25"
 
 accounts:
-  message: "Welcome to microservices accounts related default APIs "
+  message: "Welcome to microservices accounts related default APIs Endpoints "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
