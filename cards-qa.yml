@@ -2,7 +2,7 @@ build:
   version: "3.1"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Quality Assurance APIs updates "
+  message: "Welcome to EazyBank accounts related Quality Assurance APIs webhook"
   contactDetails:
     name: "Amal mansour - Developer"
     email: "aml.mansour@eazybank.com"
